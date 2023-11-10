@@ -7,15 +7,12 @@ main:
   - name: Home
     url: /
     weight: 10
-  # - name: Education
-  #   url: education/
-  #   weight: 20
   - name: Projects
-    url: post/
-    weight: 30
+    url: projects/
+    weight: 20
   # - name: Uses
   #   url: uses/
   #   weight: 30
   - name: Publications
     url: publications/
-    weight: 40
+    weight: 30

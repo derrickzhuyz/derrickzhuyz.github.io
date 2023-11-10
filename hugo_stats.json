@@ -273,9 +273,14 @@
       "-contact",
       "-education",
       "-research-interests",
+      "1-predictive-maintenance",
+      "2-goal",
+      "3-data-description",
+      "4-related-pictures",
+      "acknowledgement",
       "callouts",
-      "chart-275183946",
-      "chart-925476183",
+      "chart-175348962",
+      "chart-458719236",
       "charts",
       "code",
       "collapse-main-navbar",
@@ -300,13 +305,16 @@
       "page-bg",
       "podcast",
       "profile",
+      "related-pictures",
       "section-about-avatar",
       "spoiler-2",
+      "summary",
       "sun",
       "test-students",
       "themes",
       "todo-lists",
-      "video"
+      "video",
+      "workflow"
     ]
   }
 }
