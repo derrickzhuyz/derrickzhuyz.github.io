@@ -11,7 +11,7 @@ last_name: ZHU
 
 # Status emoji
 # status:
-#   icon: 🥳
+  icon: 🥳
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,7 +25,7 @@ organizations:
     url: https://www.hkust-gz.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi, welcome to my homepage!
+bio: Le vent se lève, il faut tenter de vivre
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -55,7 +55,7 @@ social:
 highlight_name: true
 ---
 
-Hi, welcome to my page! My name is Yizhang ZHU, and I am a M.Phil. student at the Hong Kong University of Science and Technology (Guangzhou). Prior to that, I received my B.Eng. degree in Computer Science and Technology from Chongqing University. During this period, I also spent one year at the NUS Chongqing Research Institute under the supervision of Prof. Yung Chii LIANG, for a collaborative educational project held by CQU and NUS.
+👋Hi, welcome to my page! My name is Yizhang ZHU, and I am an M.Phil. student at the Hong Kong University of Science and Technology (Guangzhou). Prior to that, I received my B.Eng. degree in Computer Science and Technology from Chongqing University. During my undergraduate studies, I also spent one year at the NUS Chongqing Research Institute under the supervision of Prof. Yung Chii LIANG, for a collaborative educational project held by CQU and NUS.
 {style="text-align: justify; font-size: 0.8em;"}
 
 #### 🎓 Education
