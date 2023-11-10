@@ -10,7 +10,7 @@ first_name: Yizhang
 last_name: ZHU
 
 # Status emoji
-# status:
+status:
   icon: 🥳
 
 # Is this the primary user of the site?
