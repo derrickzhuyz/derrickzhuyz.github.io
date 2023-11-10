@@ -6,9 +6,9 @@ sections:
   - block: about.avatar
     content:
       username: admin # The user's folder name in content/authors/
-  - block: collection
-    content:
-      filters:
-        folders:
-          - post
+  # - block: collection
+  #   content:
+  #     filters:
+  #       folders:
+  #         - post
 ---
