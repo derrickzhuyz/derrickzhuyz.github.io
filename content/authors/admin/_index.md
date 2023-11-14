@@ -92,5 +92,5 @@ My name is Yizhang ZHU, and I am an M.Phil. student at the Hong Kong University 
 #### 📬 Contact
 {style="text-align: left;"}
 * Email: Please refer to above
-* Address: Duxue Rd. #1, Nansha District, Guangzhou, China
+* Address: #1 Duxue Rd., Nansha District, Guangzhou City, China
 {style="text-align: justify; font-size: 0.8em;"}
