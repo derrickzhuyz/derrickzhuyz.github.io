@@ -57,7 +57,7 @@ highlight_name: true
 
 👋Hi, welcome to my page! 
 
-My name is Yizhang ZHU, and I am an M.Phil. student in Data Science and Analytics at the Hong Kong University of Science and Technology (Guangzhou). Prior to that, I received my B.Eng. degree in Computer Science and Technology from Chongqing University. During my undergraduate studies, I also spent one year at the NUS Chongqing Research Institute under the supervision of Prof. Yung Chii LIANG, for a collaborative educational project held by CQU CS Dept and NUS CDE.
+My name is Yizhang ZHU. I am an M.Phil. student in Data Science and Analytics, under the supervision of [Prof. Yuyu LUO](https://luoyuyu.vip/), at the Hong Kong University of Science and Technology (Guangzhou). Prior to that, I received my B.Eng. degree in Computer Science and Technology from Chongqing University. During my undergraduate studies, I also spent one year at the NUS Chongqing Research Institute under the supervision of Prof. Yung Chii LIANG, for a collaborative educational project held by CQU CS Dept and NUS CDE.
 {style="text-align: justify; font-size: 0.8em;"}
 
 #### 🎓 Education
