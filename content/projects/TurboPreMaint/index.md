@@ -1,5 +1,5 @@
 ---
-title: Turbofan Engines Predictive Maintenance
+title: Data-driven Turbofan Engines Predictive Maintenance
 summary: Predictive Maintenance System for Turbofan Engines Based on Deep Learning Methods
 date: 2023-11-28
 
