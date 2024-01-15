@@ -85,12 +85,12 @@ My name is Yizhang ZHU. I am an M.Phil. student in Data Science and Analytics, u
 {style="text-align: justify; font-size: 0.8em;"}
 #### 🔍 Research Interests
 {style="text-align: left;"}
-* Time Series Analysis
 * Data Visualization
-* Data Science and Analytics
+* Statistical Analysis
+* Data Analytics
 {style="text-align: justify; font-size: 0.8em;"}
 #### 📬 Contact
 {style="text-align: left;"}
-* Email: Please refer to above
+* Email: Please refer to above.
 * Address: #1 Duxue Rd., Nansha District, Guangzhou City, China
 {style="text-align: justify; font-size: 0.8em;"}
