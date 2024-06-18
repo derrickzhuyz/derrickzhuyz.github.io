@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: M.Phil. Student @ HKUST(GZ)
+role: M.Phil. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -85,9 +85,8 @@ My name is Yizhang ZHU. I am an M.Phil. student in Data Science and Analytics, u
 {style="text-align: justify; font-size: 0.8em;"}
 #### 🔍 Research Interests
 {style="text-align: left;"}
-* Data Visualization
-* Statistical Analysis
-* Data Analytics
+* Large Language Models
+* AI for Data Analytics
 {style="text-align: justify; font-size: 0.8em;"}
 #### 📬 Contact
 {style="text-align: left;"}
