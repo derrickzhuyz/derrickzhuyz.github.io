@@ -37,11 +37,14 @@ social:
   - icon: github
     icon_pack: wc
     link: https://github.com/derrickzhuyz
+  - icon: "google-scholar"
+    icon_pack: wc
+    link: 'https://scholar.google.com/citations?hl=zh-CN&user=eAkUamUAAAAJ'
   # - icon: linkedin
   #   icon_pack: wc
   #   link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: send
+  - icon: "send"
     icon_pack: wc
     link: 'mailto:yzhu305@connect.hkust-gz.edu.cn'
   - icon: cv

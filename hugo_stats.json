@@ -2,6 +2,7 @@
   "htmlElements": {
     "tags": [
       "--",
+      "?xml",
       "a",
       "article",
       "audio",
@@ -149,6 +150,7 @@
       "hover:text-gray-800",
       "hover:text-neutral-700",
       "hover:text-primary-700",
+      "icon",
       "inline-block",
       "items-center",
       "justify-between",
@@ -286,7 +288,7 @@
       "acknowledgement",
       "background-and-dataset",
       "callouts",
-      "chart-735248619",
+      "chart-849631725",
       "charts",
       "code",
       "collapse-main-navbar",
