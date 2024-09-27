@@ -1,22 +1,24 @@
 ---
-title:          "Convallis a cras semper auctor neque vitae rutrum quisque non tellus orci ac"
-date:           2024-05-12 00:01:00 +0800
+title:          "Are Large Language Models Good Statisticians?"
+date:           2024-09-26 00:20:00 +0800
 selected:       true
-pub:            "International Conference on Machine Learning (ICML)"
+pub:            "NeurIPS 2024 D&B"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2024"
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Poster</span>'
+# pub_date:       "2024"
 
-abstract: >-
-  Photo by Pineapple Supply Co. on Unsplash. Massa ultricies mi quis hendrerit dolor magna. Arcu non odio euismod lacinia at quis risus sed. Et tortor at risus viverra. Enim neque volutpat ac tincidunt. Dictum varius duis at consectetur lorem donec.
-cover:          /assets/images/covers/cover3.jpg
+# abstract: >-
+#   Photo by Pineapple Supply Co. on Unsplash. Massa ultricies mi quis hendrerit dolor magna. Arcu non odio euismod lacinia at quis risus sed. Et tortor at risus viverra. Enim neque volutpat ac tincidunt. Dictum varius duis at consectetur lorem donec.
+cover:          /assets/images/covers/StatQA_cover.png
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
+  - Yizhang ZHU
+  - Shiyin DU
+  - Boyan LI
+  - Yuyu LUO
+  - Nan TANG
 links:
-  Code: https://github.com/luost26/academic-homepage
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  Paper: https://arxiv.org/abs/2406.07815
+  Code: https://github.com/HKUSTDial/StatQA
+  Project: https://statqa.github.io/
 ---
