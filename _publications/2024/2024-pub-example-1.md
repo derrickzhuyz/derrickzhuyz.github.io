@@ -2,10 +2,11 @@
 title:          "Are Large Language Models Good Statisticians?"
 date:           2024-09-26 00:20:00 +0800
 selected:       true
-pub:            "NeurIPS 2024 D&B"
+# pub:            "NeurIPS 2024 D&B"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Poster</span>'
+pub_last:       ' <span class="badge badge-publication badge-warning">NeurIPS 2024 D&B</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-warning">NeurIPS 2024 D&B</span>'
 # pub_date:       "2024"
 
 # abstract: >-
@@ -18,7 +19,7 @@ authors:
   - Yuyu LUO
   - Nan TANG
 links:
+  Homepage: https://statqa.github.io/
   Paper: https://arxiv.org/abs/2406.07815
   Code: https://github.com/HKUSTDial/StatQA
-  Project: https://statqa.github.io/
 ---
