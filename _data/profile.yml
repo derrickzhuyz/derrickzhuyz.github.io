@@ -16,7 +16,7 @@ email: "derrickzhu📧qq.com"
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
+linkedin: yizhang-zhu-ba8870290
 orcid: 0009-0004-5496-5008
 
 short_bio: >-
@@ -47,7 +47,6 @@ experience:
   logo: /assets/images/badges/nus.png
   position: NUS-CQU Co-program in Computer Engineering
   date: Sept. 2022 - May. 2023
-
 
 awards:
 - name: HKUST(GZ) Red Bird M.Phil. Studentship (2023~2025)
