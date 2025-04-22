@@ -11,13 +11,14 @@ positions:
 gscholar: eAkUamUAAAAJ&hl
 github: derrickzhuyz
 email: "derrickzhu📧qq.com"
-# cv_link: /assets/docs/cv.pdf
 # twitter: your_twitter_id
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 linkedin: yizhang-zhu-ba8870290
 orcid: 0009-0004-5496-5008
+cv: /assets/docs/cv.pdf
+
 
 short_bio: >-
   <p> <strong>👋Hi, welcome to my page!</strong>
