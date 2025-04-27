@@ -1,5 +1,7 @@
 # academic-homepage
 
+> Adopted from https://github.com/luost26/academic-homepage
+
 ![Preview](assets/images/etc/preview.png)
 
 [![pages-build-deployment](https://github.com/luost26/academic-homepage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/luost26/academic-homepage/actions/workflows/pages/pages-build-deployment)
@@ -52,3 +54,4 @@ A GitHub Pages (Jekyll) template for personal academic website. Click [here](htt
    ```
 
 5. Browse to the displayed URL to see the website.
+
