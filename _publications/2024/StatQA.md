@@ -22,4 +22,5 @@ links:
   Homepage: https://statqa.github.io/
   Paper: https://arxiv.org/abs/2406.07815
   Code: https://github.com/HKUSTDial/StatQA
+  Video: https://neurips.cc/virtual/2024/poster/97546
 ---
