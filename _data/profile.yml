@@ -40,8 +40,12 @@ portrait_caption: >-
 education:
 - name: The Hong Kong University of Science and Technology (Guangzhou)
   logo: /assets/images/badges/hkust.svg
-  position: M.Phil. student in Data Science and Analytics
-  date: Sept. 2023 - present
+  position: Incoming Ph.D. Student in Data Science and Analytics
+  date: Sept. 2025 - Present
+- name: The Hong Kong University of Science and Technology (Guangzhou)
+  logo: /assets/images/badges/hkust.svg
+  position: M.Phil. in Data Science and Analytics
+  date: Sept. 2023 - Jul. 2025
 - name: Chongqing University
   logo: /assets/images/badges/cqu.png
   position: B.Eng. in Computer Science and Technology
