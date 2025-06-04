@@ -52,27 +52,43 @@ education:
   date: Sept. 2019 - Jul. 2023
 
 experience:
+# - name: Tsinghua University
+#   logo: /assets/images/badges/thu.png
+#   position: Visiting Student in Database Group, Dept. of CST
+#   date: Jun. 2025 - Sept. 2025
 - name: NUS Chongqing Research Institute
   logo: /assets/images/badges/nus.png
-  position: NUS-CQU Co-program in Computer Engineering
+  position: Visiting Student in Computer Engineering Joint Program # NUS-CQU Co-program in Computer Engineering
   date: Sept. 2022 - May. 2023
 
 awards:
+# - name: HKUST(GZ) Ph.D. Studentship
+#   date: 2025/09
+- name: Data Science and Analytics Thrust Volunteer Grant
+  date: 2025/05
 - name: Greater Bay Area CS Academic Poster Competition (Most Popular Poster)
   date: 2025/03
-- name: HKUST(GZ) Red Bird M.Phil. Studentship (2023~2025)
+- name: HKUST(GZ) Red Bird M.Phil. Studentship
   date: 2023/09
 - name: Excellent Graduates of Chongqing University
   date: 2023/06
 - name: General Scholarship of Chongqing University
   date: 2022/09
-- name: College Students Big Data Challenging Competition (National Third Prize)
-  date: 2021/11
+# - name: College Students Big Data Challenging Competition (National Third Prize)
+#   date: 2021/11
 - name: National Mathematical Contest of Modelling (First Prize in Chongqing)
   date: 2021/10
-- name: Internet+ Innovation Competition (Silver Prize in Chongqing)
-  date: 2021/08
-- name: China Collegiate Computing Contest (Second Prize in Southwest Division)
-  date: 2021/08
-- name: National English Competition for College Students (National Third Prize)
-  date: 2020/12
+# - name: Internet+ Innovation Competition (Silver Prize in Chongqing)
+#   date: 2021/08
+# - name: China Collegiate Computing Contest (Second Prize in Southwest Division)
+#   date: 2021/08
+# - name: National English Competition for College Students (National Third Prize)
+#   date: 2020/12
+
+# service:
+# - type: Reviewer
+#   item: NeurIPS 2025
+# - type: Subreviewer
+#   item: VLDB 2025, ICLR 2025, KDD 2025, COLM 2025
+# - type: Teaching Assistant
+#   item: xxxxx
