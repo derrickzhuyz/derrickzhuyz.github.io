@@ -1,7 +1,7 @@
 ---
 title:          "SRAG: Structured Retrieval-Augmented Generation for Multi-Entity Question Answering over Wikipedia Graph"
 date:           2025-03-06 00:20:00 +0800
-selected:       true
+selected:       false
 # pub:            "ArXiv"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

@@ -1,7 +1,7 @@
 ---
 title:          "AskChart: Universal Chart Understanding through Textual Enhancement"
 date:           2025-02-01 00:20:00 +0800
-selected:       true
+selected:       false
 # pub:            "ArXiv"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

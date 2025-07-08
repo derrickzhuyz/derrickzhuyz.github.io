@@ -5,7 +5,7 @@ selected:       true
 # pub:            "NeurIPS 2024 D&B"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-publication badge-danger">NeurIPS 2024 D&B</span>'
+pub_last:       ' <span class="badge badge-publication badge-success">NeurIPS 2024 D&B</span>'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-warning">NeurIPS 2024 D&B</span>'
 # pub_date:       "2024"
 

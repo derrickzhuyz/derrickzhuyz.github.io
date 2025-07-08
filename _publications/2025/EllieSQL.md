@@ -5,7 +5,7 @@ selected:       true
 # pub:            "ArXiv"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-publication badge-info">ArXiv</span>'
+pub_last:       ' <span class="badge badge-publication badge-success">COLM 2025</span>'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Poster</span>'
 # pub_date:       "2024"
 
