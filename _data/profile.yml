@@ -5,7 +5,7 @@ navbar_name: "Yizhang ZHU"
 positions:
 # - logo: /assets/images/badges/hkust.svg  # Logo is optional
 #   name: M.Phil. Student in Data Science and Analytics
-- name: M.Phil. Student @ <a href="https://github.com/HKUSTDial">HKUST(GZ)-DIAL</a>
+- name: Incoming Ph.D. Student @ <a href="https://github.com/HKUSTDial">HKUST(GZ)-DIAL</a>
 
 
 gscholar: eAkUamUAAAAJ&hl
@@ -40,7 +40,7 @@ portrait_caption: >-
 education:
 - name: The Hong Kong University of Science and Technology (Guangzhou)
   logo: /assets/images/badges/hkust.svg
-  position: Incoming Ph.D. Student in Data Science and Analytics
+  position: Ph.D. Student in Data Science and Analytics
   date: Sept. 2025 - Present
 - name: The Hong Kong University of Science and Technology (Guangzhou)
   logo: /assets/images/badges/hkust.svg
