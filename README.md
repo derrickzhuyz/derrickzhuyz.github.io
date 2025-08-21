@@ -50,7 +50,7 @@ A GitHub Pages (Jekyll) template for personal academic website. Click [here](htt
 4. Run the following command in the root directory of the repository:
 
    ```bash
-   bundle exec jekyll serve
+   c
    ```
 
 5. Browse to the displayed URL to see the website.

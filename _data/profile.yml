@@ -52,10 +52,10 @@ education:
   date: Sept. 2019 - Jul. 2023
 
 experience:
-# - name: Tsinghua University
-#   logo: /assets/images/badges/thu.png
-#   position: Visiting Student in Database Group, Dept. of CST
-#   date: Jun. 2025 - Sept. 2025
+- name: Tsinghua University
+  logo: /assets/images/badges/thu.png
+  position: Visiting Student in DBGroup, Computer Science and Technology
+  date: Jun. 2025 - Sept. 2025
 - name: NUS Chongqing Research Institute
   logo: /assets/images/badges/nus.png
   position: Visiting Student in Computer Engineering Joint Program # NUS-CQU Co-program in Computer Engineering
