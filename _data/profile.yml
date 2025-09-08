@@ -5,7 +5,7 @@ navbar_name: "Yizhang ZHU"
 positions:
 # - logo: /assets/images/badges/hkust.svg  # Logo is optional
 #   name: M.Phil. Student in Data Science and Analytics
-- name: Incoming Ph.D. Student @ <a href="https://github.com/HKUSTDial">HKUST(GZ)-DIAL</a>
+- name: Ph.D. Student @ <a href="https://github.com/HKUSTDial">HKUST(GZ)-DIAL</a>
 
 
 gscholar: eAkUamUAAAAJ&hl
@@ -24,7 +24,7 @@ short_bio: >-
   <p> <strong>👋 Hi, welcome to my page!</strong>
   <p>
     I'm a Ph.D. student in Data Science and Analytics, supervised by <a href="https://luoyuyu.vip/">Prof. Yuyu LUO</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a>, where I also completed my M.Phil. studies. Prior to that, I earned my B.Eng. degree in Computer Science and Technology from <a href="https://www.cqu.edu.cn/">Chongqing University</a>. 
-    My research centers on AI for data analytics, with the aim of democratizing data science. Currently, I'm particularly interested in Natural Language to SQL and Automated Data Analysis.
+    My research centers on AI for data analytics, with the aim of democratizing data science. Currently, I'm particularly interested in Text-to-SQL and Data Agents.
   </p>
   <p>
     I'm open to opportunities for communication and collaboration. Feel free to reach out!
