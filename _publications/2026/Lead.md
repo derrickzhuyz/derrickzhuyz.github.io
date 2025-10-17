@@ -1,11 +1,11 @@
 ---
 title:          "LEAD: Iterative Data Selection for Efficient LLM Instruction Tuning"
-date:           2025-05-12 00:20:00 +0800
+date:           2025-10-16 00:20:00 +0800
 selected:       true
 # pub:            "ArXiv"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-publication badge-info">ArXiv</span>'
+pub_last:       ' <span class="badge badge-publication badge-success">VLDB 2026</span>'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Poster</span>'
 # pub_date:       "2024"
 
