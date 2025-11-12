@@ -5,7 +5,7 @@ selected:       true
 # pub:            "ArXiv"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       '<span class="badge badge-publication badge-danger">🔥Survey</span> <span class="badge badge-publication badge-info">ArXiv</span>'
+pub_last:       '<span class="badge badge-publication badge-danger">🔥 Survey</span> <span class="badge badge-publication badge-warning">🤗 HF Daily Top 3</span>'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Poster</span>'
 # pub_date:       "2024"
 
@@ -28,7 +28,6 @@ authors:
   - Shimin DI
   - Ju FAN
   - Ji SUN
-  - Nan TANG
   - Nan TANG
   - Fugee TSUNG
   - Jiannan WANG
