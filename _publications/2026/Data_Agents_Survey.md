@@ -41,4 +41,5 @@ authors:
 links:
   Paper: http://arxiv.org/abs/2510.23587
   Paper List & Repo: https://github.com/HKUSTDial/awesome-data-agents
+  Slides: assets/slides/DataAgents_Squirrel_Webinar.pdf
 ---
