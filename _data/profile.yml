@@ -23,7 +23,7 @@ cv: /assets/docs/academic_resume.pdf
 short_bio: >-
   <p> <strong>👋 Hi, welcome to my page!</strong>
   <p>
-    I'm a Ph.D. student in Data Science and Analytics, supervised by <a href="https://luoyuyu.vip/">Prof. Yuyu LUO</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a>, where I also completed my M.Phil. studies. Prior to that, I earned my B.Eng. degree in Computer Science and Technology from <a href="https://www.cqu.edu.cn/">Chongqing University</a>. 
+    I'm a Ph.D. student in Data Science and Analytics, supervised by <a href="https://luoyuyu.vip/">Prof. Yuyu LUO</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a>, where I also completed my M.Phil. studies. Prior to that, I obtained my B.Eng. degree in Computer Science and Technology from <a href="https://www.cqu.edu.cn/">Chongqing University</a>. 
     My research centers on AI for data analytics, with the aim of democratizing data science. Currently, I'm particularly interested in Text-to-SQL and Data Agents.
   </p>
   <p>
@@ -62,7 +62,7 @@ experience:
   date: Sept. 2022 - May. 2023
 
 awards:
-- name: AI Agent 2025 (Best Open-source Project Award)
+- name: AI Agent 2025 Competition (Best Open-source Project Award)
   date: 2025/10
 - name: HKUST(GZ) Ph.D. Student Fellowship
   date: 2025/09
@@ -74,7 +74,7 @@ awards:
   date: 2023/09
 - name: Excellent Graduates of Chongqing University
   date: 2023/06
-- name: General Scholarship of Chongqing University
+- name: Comprehensive Scholarship of Chongqing University
   date: 2022/09
 # - name: College Students Big Data Challenging Competition (National Third Prize)
 #   date: 2021/11
@@ -93,4 +93,4 @@ awards:
 # - type: Subreviewer
 #   item: VLDB 2025, ICLR 2025, KDD 2025, COLM 2025
 # - type: Teaching
-#   item: DSAA 6100 Data-centric AI Practical Lab (PG-level)
+#   item: DSAA 6100 Data-centric AI Practical Lab (Master's Level)
