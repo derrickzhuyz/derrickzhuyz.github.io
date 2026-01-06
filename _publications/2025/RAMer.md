@@ -1,7 +1,7 @@
 ---
 title:          "RAMer: Reconstruction-based Adversarial Model for Multi-party Multi-modal Multi-label Emotion Recognition"
 date:           2025-02-09 00:20:00 +0800
-selected:       true
+selected:       false
 # pub:            "ArXiv"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

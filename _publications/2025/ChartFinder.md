@@ -1,7 +1,7 @@
 ---
 title:          "Boosting Text-to-Chart Retrieval through Training with Synthesized Semantic Insights"
 date:           2025-05-11 00:20:00 +0800
-selected:       true
+selected:       false
 # pub:            "ArXiv"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
