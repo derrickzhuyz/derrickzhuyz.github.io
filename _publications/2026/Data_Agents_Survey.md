@@ -1,6 +1,6 @@
 ---
 title:          "🌟 A Survey of Data Agents: Emerging Paradigm or Overstated Hype?"
-date:           2025-10-28 00:20:00 +0800
+date:           2099-10-28 00:20:00 +0800
 selected:       true
 # pub:            "ArXiv"
 # pub_pre:        "Submitted to "
