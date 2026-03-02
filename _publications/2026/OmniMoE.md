@@ -21,6 +21,6 @@ authors:
   - Nan TANG
   - Yuyu LUO
 links:
-  Paper: hhttps://arxiv.org/abs/2602.05711
+  Paper: https://arxiv.org/abs/2602.05711
   # Code: https://github.com/HKUSTDial/LEAD
 ---
