@@ -89,10 +89,10 @@ awards:
 # - name: National English Competition for College Students (National Third Prize)
 #   date: 2020/12
 
-# service:
-# - type: Reviewer
-#   item: NeurIPS 2025
+service:
+- type: Reviewer
+  item: NeurIPS 2025
 # - type: Subreviewer
 #   item: VLDB 2025, ICLR 2025, KDD 2025, COLM 2025
-# - type: Teaching
-#   item: DSAA 6100 Data-centric AI Practical Lab (Master's Level)
+- type: Teaching Assistant
+  item: DSAA 6100 Data-centric AI Practical Lab (Master's Level)
