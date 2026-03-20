@@ -2,6 +2,7 @@
 title:          "🌟 A Survey of Data Agents: Emerging Paradigm or Overstated Hype?"
 date:           2026-12-31 00:20:00 +0800
 selected:       true
+pinned:         0 
 # pub:            "ArXiv"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

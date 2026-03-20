@@ -19,7 +19,9 @@ navbar_title: Home
 {% endif %}
 
 {% if site.data.display.homepage.show_selected_publications %}
-{% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
+{% assign pubs_pinned = site.publications | where: "selected", true | where_exp: "item", "item.pinned != nil" | sort: "pinned" %}
+{% assign pubs_selected = site.publications | where: "selected", true | where_exp: "item", "item.pinned == nil" | sort: "date" | reverse %}
+{% assign pubs = pubs_pinned | concat: pubs_selected %}
 {% 
     include widgets/publication_card.html 
     publications=pubs
