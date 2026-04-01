@@ -27,7 +27,7 @@ authors:
   - Yuyu LUO
 links:
   Homepage: https://github.com/HKUSTDial/
-  Paper: http://arxiv.org/abs/
+  Paper: https://arxiv.org/pdf/2603.28889
   Code: https://github.com/HKUSTDial/
   Awards: assets/awards/Geneva_Invention_Exhibition_DeepEye.pdf
 ---
