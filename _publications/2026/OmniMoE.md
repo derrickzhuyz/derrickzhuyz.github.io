@@ -22,5 +22,5 @@ authors:
   - Yuyu LUO
 links:
   Paper: https://arxiv.org/abs/2602.05711
-  # Code: https://github.com/HKUSTDial/LEAD
+  Code: https://github.com/HKUSTDial/omni-moe
 ---
