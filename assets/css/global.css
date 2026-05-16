@@ -19,6 +19,25 @@ h1, h2, h3, h4, h5, h6,
     font-weight: 400;
 }
 
+.profile-motto {
+    font-family: "Cormorant Garamond", Georgia, serif;
+    font-style: italic;
+    font-size: 1rem;
+    color: #777;
+    max-width: 200px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.profile-motto-source {
+    font-family: "Cormorant Garamond", Georgia, serif;
+    font-style: italic;
+    font-size: 0.88rem;
+    color: #999;
+    text-align: center;
+    margin-top: 2px;
+}
+
 .navbar {
     opacity: 0.95;
 }

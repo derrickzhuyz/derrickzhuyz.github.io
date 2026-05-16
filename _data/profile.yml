@@ -24,7 +24,7 @@ short_bio: >-
   <p> <strong>👋 Hi, welcome to my page!</strong>
   <p>
     I'm a Ph.D. student in Data Science and Analytics, supervised by <a href="https://luoyuyu.vip/">Prof. Yuyu LUO</a> at the <a href="https://www.hkust-gz.edu.cn/">Hong Kong University of Science and Technology (Guangzhou)</a>, where I also completed my M.Phil. studies. Prior to that, I obtained my B.Eng. degree in Computer Science and Technology from <a href="https://www.cqu.edu.cn/">Chongqing University</a>. 
-    My research centers on AI for data analytics, with the aim of democratizing data science. Currently, I'm particularly interested in Text-to-SQL and Data Agents.
+    My research centers on AI for data analytics, with the aim of democratizing data science. Currently, I'm particularly interested in Data Agents and AI for Databases.
   </p>
   <p>
     I'm open to opportunities for communication and collaboration. Feel free to reach out!
@@ -35,7 +35,7 @@ short_bio: >-
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
-  Motto: It does not do to dwell on dreams and forget to live.
+  It does not do to dwell on<br>dreams and forget to live.
 
 education:
 - name: The Hong Kong University of Science and Technology (Guangzhou)
@@ -96,3 +96,5 @@ service:
 #   item: VLDB 2025, ICLR 2025, KDD 2025, COLM 2025
 - type: Teaching Assistant
   item: DSAA 6100 Data-centric AI Practical Lab (Master's Level)
+- type: Others
+  item: Committee Chair (Evaluation) for KDD Cup 2026 - Data Agents Track

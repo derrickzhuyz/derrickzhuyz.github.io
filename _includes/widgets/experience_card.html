@@ -73,8 +73,8 @@
 
                         {% if site.data.profile.service %}
                         <!-- <div class="row"> -->
-                            <div class="mx-2 my-4"> <!-- my-4 比 my-1 间隔更大 -->
-                                <h6>Services</h6>
+                            <div class="mx-2 mb-1" style="margin-top: {{ site.data.display.homepage.service_margin_top }};"> <!-- 顶部间距由 _data/display.yml 的 service_margin_top 控制 -->
+                                <h6>Academic Services</h6>
                                 <ul class="list small pl-3 mb-1">
                                     {% for item in site.data.profile.service %}
                                     <li>
