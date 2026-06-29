@@ -91,7 +91,7 @@ awards:
 
 service:
 - type: Reviewer
-  item: NeurIPS 2025
+  item: ADS@VLDB 2026, NeurIPS 2025
 # - type: Subreviewer
 #   item: VLDB 2025, ICLR 2025, KDD 2025, COLM 2025
 - type: Teaching Assistant
