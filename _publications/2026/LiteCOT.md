@@ -26,6 +26,6 @@ authors:
   - Nan TANG
   - Yuyu LUO
 links:
-  Paper: https://arxiv.org/
+  Paper: https://aclanthology.org/2026.findings-acl.2155/
   Code: https://github.com/Evanwu1125/LiteCoT
 ---
